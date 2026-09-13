@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Archivary.Api/Archivary.Api.csproj" />
+    <Project Path="src/Archivary.Application/Archivary.Application.csproj" />
+    <Project Path="src/Archivary.Domain/Archivary.Domain.csproj" />
+    <Project Path="src/Archivary.Infrastructure/Archivary.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Archivary.Domain.Tests/Archivary.Domain.Tests.csproj" />
+    <Project Path="tests/Archivary.Api.IntegrationTests/Archivary.Api.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
